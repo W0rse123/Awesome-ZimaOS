@@ -24,9 +24,9 @@
 
 -[Zimaos-AppStore-Play-x86]([https://casaos-appstore.paodayag.dev/linuxserver.zip](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip))
 
--[Zimaos-AppStore-Play-arm]([[https://casaos-appstore.paodayag.dev/linuxserver.zip](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip)](https://play.cuse.eu.org/Cp0204-AppStore-Play-arm.zip))
+-[Zimaos-AppStore-Play-arm](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip)](https://play.cuse.eu.org/Cp0204-AppStore-Play-arm.zip)
 
--[CoolStore]([https://casaos-appstore.paodayag.dev/linuxserver.zip](https://casaos-appstore.paodayag.dev/coolstore.zip))
+-[CoolStore](https://casaos-appstore.paodayag.dev/coolstore.zip))
 
 -[CasaOS (Edge) AppStore](https://paodayag.dev/casaos-appstore-edge.zip)
 
