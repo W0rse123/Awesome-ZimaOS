@@ -20,3 +20,5 @@
 
 
  ## 🧩 App Stores
+[Linux-Server-io]https://casaos-appstore.paodayag.dev/linuxserver.zip
+
