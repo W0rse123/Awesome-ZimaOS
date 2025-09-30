@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/assets/banner.png" />
-  <h1 align="center">Awesome Jellyfin</h1>
+  <img src=![logo](https://github.com/user-attachments/assets/97f70061-1d44-43ee-8663-321421a0fa0d)"" />
+  <h1 align="center">Awesome ZimaOs</h1>
 </p>
 
 
-<blockquote align="center"> A List of Awesome Jellyfin Themes and Plugins</blockquote>
+<blockquote align="center"> A List of Awesome Zimaos AppStores and more</blockquote>
 
 <p align="center">
 [
