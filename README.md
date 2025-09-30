@@ -22,11 +22,11 @@
 
 •[Zimaos-AppStore-Play-arm](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip)
 
-•[CoolStore](https://casaos-appstore.paodayag.dev/coolstore.zip))
+•[CoolStore](https://casaos-appstore.paodayag.dev/coolstore.zip)
 
 •[CasaOS (Edge) AppStore](https://paodayag.dev/casaos-appstore-edge.zip)
 
-•[CasaOS HomeAutomation AppStore](https://github.com/mr-manuel/CasaOS-HomeAutomation-AppStore/archive/refs/tags/latest.zip))
+•[CasaOS HomeAutomation AppStore](https://github.com/mr-manuel/CasaOS-HomeAutomation-AppStore/archive/refs/tags/latest.zip)
 
 •[Big Bear CasaOS App Store](https://github.com/bigbeartechworld/big-bear-casaos/archive/refs/heads/master.zip)
 
