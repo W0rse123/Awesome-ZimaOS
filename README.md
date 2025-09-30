@@ -10,11 +10,7 @@
 [
   <a href="#-plugins">App Stores</a> •
   <a href="#%EF%B8%8F-metadata-providers">Wallpapers</a> •
-  <a href="THEMES.md">Example</a> •
-  <a href="#-other">Example</a> •
-  <a href="#-snippets">Example</a> •
-  <a href="#-related">Example</a> •
-  <a href="#contribute">Example</a>
+  <a href="THEMES.md">Zimaos official Communities</a> •
 ]
 </p>
 
