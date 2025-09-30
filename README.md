@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=(https://imgur.com/bXtvBYB
+  <img src=https://imgur.com/bXtvBYB
   <h1 align="center">Awesome ZimaOs</h1>
 </p>
 
