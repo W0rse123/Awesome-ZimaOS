@@ -65,7 +65,6 @@
  -[Youtube](https://www.youtube.com/@ZimaSpace)
  
  -[Discord](https://discord.com/invite/f9nzbmpMtU)
- <img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/50128a71-1cbc-42ab-882a-24c72cea3205" />
 
  -[Facebook](https://www.facebook.com/zimaboard?utm_source=brand_zimaspace&utm_medium=social&utm_campaign=follow_fb)
  
