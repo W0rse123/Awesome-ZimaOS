@@ -21,13 +21,23 @@
 
  ## 🧩 App Stores
 -[Linux-Server-io](https://casaos-appstore.paodayag.dev/linuxserver.zip)
+
 -[Zimaos-AppStore-Play-x86]([https://casaos-appstore.paodayag.dev/linuxserver.zip](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip))
+
 -[Zimaos-AppStore-Play-arm]([[https://casaos-appstore.paodayag.dev/linuxserver.zip](https://play.cuse.eu.org/Cp0204-AppStore-Play.zip)](https://play.cuse.eu.org/Cp0204-AppStore-Play-arm.zip))
+
 -[CoolStore]([https://casaos-appstore.paodayag.dev/linuxserver.zip](https://casaos-appstore.paodayag.dev/coolstore.zip))
+
 -[CasaOS (Edge) AppStore](https://paodayag.dev/casaos-appstore-edge.zip)
+
 -[CasaOS HomeAutomation AppStore]((https://github.com/mr-manuel/CasaOS-HomeAutomation-AppStore/archive/refs/tags/latest.zip))
+
 -[Big Bear CasaOS App Store](https://github.com/bigbeartechworld/big-bear-casaos/archive/refs/heads/master.zip)
+
 -[TMC Community App Store]([https://paodayag.dev/casaos-appstore-edge.zip](https://github.com/mariosemes/CasaOS-TMCstore/archive/refs/heads/main.zip))
+
 -[CasaOS Pentest-Docker AppStore](https://github.com/arch3rPro/Pentest-Docker/archive/refs/heads/master.zip)
+
 -[JSDs Generative AI Workbench CasaOS AppStore]([https://paodayag.dev/casaos-appstore-edge.zip](https://github.com/justserdar/ZimaOS-AppStore/archive/refs/tags/latest-v0.0.8.zip))
+
 -[CasaOS Pentest-Docker AppStore](https://paodayag.dev/casaos-appstore-edge.zip)
