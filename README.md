@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=![logo](https://github.com/user-attachments/assets/97f70061-1d44-43ee-8663-321421a0fa0d)"" />
+  <img src=![logo](https://imgur.com/bXtvBYB)"" />
   <h1 align="center">Awesome ZimaOs</h1>
 </p>
 
