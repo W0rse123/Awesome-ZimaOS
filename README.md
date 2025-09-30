@@ -39,17 +39,17 @@
 •[CasaOS Pentest-Docker AppStore](https://paodayag.dev/casaos-appstore-edge.zip)
 
  ## 🧩 Wallpapers
- •[WallHaven](https://wallhaven.cc/)
+ •[WallHaven](https://wallhaven.cc/)-The best overall
  
- •[WallpaperFlare](https://www.wallpaperflare.com/)
+ •[WallpaperFlare](https://www.wallpaperflare.com/)-Not bad for what it is
  
- •[AlphaCoders](https://alphacoders.com/)
+ •[AlphaCoders](https://alphacoders.com/)-Decent
  
- •[WallpaperHub](https://www.wallpaperhub.app/)
+ •[WallpaperHub](https://www.wallpaperhub.app/)-Big library
  
- •[WallpapersCraft](https://wallpaperscraft.com/)
+ •[WallpapersCraft](https://wallpaperscraft.com/)-Pretty Nice selection
  
- •[Dharmx's Github](https://github.com/dharmx/walls/tree/main)
+ •[Dharmx's Github](https://github.com/dharmx/walls/tree/main)-High Quality and reliable
 
  ## 🧩 Zimaos official Communities
  •[X](https://x.com/ZimaSpace?utm_source=brand_zimaspace&utm_medium=social&utm_campaign=follow_x)
